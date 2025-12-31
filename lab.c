@@ -1,4 +1,4 @@
-Mohammed Mrd, [12/31/2025 9:26 PM]
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -10,8 +10,8 @@ Mohammed Mrd, [12/31/2025 9:26 PM]
 
 
 // created by mourad mohammed lamine  g02-ai ing
-// salaheddine mehamdi
-//nouh khiredine
+// salaheddine mehamdi      g02-ai ing
+//nouh khiredine             g02-ai ing
 
 
 
@@ -287,4 +287,5 @@ int main() {
     printf("╚════════════════════════════════════════════════╝\n");
     
     return 0;
+
 }
